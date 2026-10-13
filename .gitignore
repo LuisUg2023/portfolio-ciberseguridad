@@ -1,0 +1,10 @@
+# Archivos temporales y secretos
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
