@@ -41,10 +41,10 @@ Este módulo organiza contenidos introductorios de ciberseguridad y los conviert
 ## Progreso
 | Actividad | Estado |
 |---|---|
-| Marcos y controles | En desarrollo |
-| Ética y uso responsable | En desarrollo |
-| Amenazas, riesgos y vulnerabilidades | En desarrollo |
-| Herramientas | En desarrollo |
-| Habilidades básicas | En desarrollo |
-| Programación | En desarrollo |
+| Marcos y controles | Material publicado; práctica pendiente |
+| Ética y uso responsable | Material publicado; práctica pendiente |
+| Amenazas, riesgos y vulnerabilidades | Material publicado; práctica pendiente |
+| Herramientas | Material publicado; práctica pendiente |
+| Habilidades básicas | Material publicado; práctica pendiente |
+| Programación | Material publicado; práctica pendiente |
 
