@@ -1,0 +1,6 @@
+id,activo,amenaza,vulnerabilidad,impacto,probabilidad,riesgo,control_recomendado,responsable,estado
+R-01,Correo corporativo,Phishing,Ausencia de MFA,3,3,9,MFA resistente al phishing y formación,TI,Propuesto
+R-02,Servidor web,Explotación remota,Parche crítico pendiente,3,2,6,Gestión de parches y escaneo autenticado,Infraestructura,Propuesto
+R-03,Base de datos,Fuga de información,Permisos excesivos,3,2,6,Mínimo privilegio y revisión trimestral,DBA,Propuesto
+R-04,Repositorio,Exposición de secretos,Credenciales en código,3,2,6,Gestor de secretos y análisis de repositorio,Desarrollo,Propuesto
+R-05,Respaldo,Pérdida de datos,Backups sin prueba de restauración,3,2,6,Backups cifrados y pruebas periódicas,Infraestructura,Propuesto
