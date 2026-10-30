@@ -18,13 +18,15 @@ Se utilizará una **organización ficticia de servicios** que administra cuentas
 5. [Conocimientos y habilidades básicas](./05-habilidades-basicas/README.md): competencias técnicas y procedimiento de análisis.
 6. [Herramientas y lenguajes de programación](./06-programacion/README.md): fundamentos de Python, consultas y automatización inicial.
 
-## Entregables del módulo
-- Matriz de comparación de marcos y controles.
-- Lista de verificación ética y de autorización.
-- Inventario de activos y matriz de riesgos.
-- Catálogo de herramientas y laboratorio propuesto.
-- Autoevaluación de habilidades.
-- Ejercicio inicial de programación defensiva.
+## Entregables publicados
+- Actividad 1: [matriz de controles](./01-marcos-controles/entregables/matriz-controles.csv) y [lista de verificación](./01-marcos-controles/entregables/lista-verificacion.md).
+- Actividad 2: [plantilla de autorización y alcance](./02-etica/entregables/plantilla-autorizacion-alcance.md).
+- Actividad 3: [registro de riesgos en CSV](./03-amenazas-riesgos-vulnerabilidades/entregables/registro-riesgos.csv).
+- Actividad 4: [guía de laboratorio Linux](./04-herramientas/entregables/guia-laboratorio-linux.md).
+- Actividad 5: [ejercicio de triaje de incidente](./05-habilidades-basicas/entregables/ejercicio-triaje-incidente.md).
+- Actividad 6: [analizador de registros en Python](./06-programacion/entregables/analizar_auth_logs.py) y [datos sintéticos](./06-programacion/entregables/auth_logs.csv).
+
+Los entregables son materiales de práctica. La ejecución de comandos, validación del script y captura de evidencias reales siguen pendientes.
 
 ## Criterios de calidad
 - Explicar el propósito y alcance de cada actividad.
