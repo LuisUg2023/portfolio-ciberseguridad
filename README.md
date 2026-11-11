@@ -13,6 +13,9 @@ Portafolio académico organizado por módulos. Cada actividad dispone de una pla
 7. [Automatización con Python](./07-python-ciberseguridad/README.md)
 8. [Inteligencia artificial aplicada a ciberseguridad](./08-ia-ciberseguridad/README.md)
 
+### Complemento técnico
+- [Introducción a Splunk Enterprise](./03-splunk-enterprise/README.md): curso de 11 lecciones sobre arquitectura, canalización de datos, campos, archivos .conf, index-time/search-time y preguntas de entrevista.
+
 ## Cómo usarlo
 
 - Abre el README del módulo y selecciona una actividad.
