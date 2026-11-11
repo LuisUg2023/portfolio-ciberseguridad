@@ -1,4 +1,4 @@
-# Módulo 3. Introducción a Splunk Enterprise
+# Complemento técnico. Introducción a Splunk Enterprise
 
 ## Objetivo
 Documentar los fundamentos de Splunk Enterprise desde la recepción de machine data hasta su indexación, búsqueda, análisis y visualización. El módulo toma como fuente principal el documento de estudio SPLUNK-INTRO.odt, sus diagramas y el índice de 11 videos del curso.
