@@ -22,14 +22,16 @@ Documentar los fundamentos de Splunk Enterprise desde la recepción de machine d
 | 11 | [Preguntas de entrevista](./11-preguntas-entrevista.md) | 31 min | Arquitectura, Knowledge Objects, clustering y SPL. |
 
 ## Imágenes del documento fuente
+
+Los archivos gráficos se entregan en el paquete ZIP complementario y deben subirse a esta carpeta para activar las referencias visuales.
 Las imágenes se guardarán en la carpeta assets cuando se incorporen al repositorio:
 - 01-data-pipeline.png
 - 02-componentes.png
 - 03-arquitectura-internals.png
 - 04-fields-extraction.png
 - 05-configuracion-conf.png
-- 06-archivos-conf-comunes.png
-- 07-index-vs-search-time.png
+- 06-archivos-conf-comunes.jpg
+- 07-index-vs-search-time.jpg
 
 ## Estructura
 Cada lección incluye objetivo, conceptos principales, tablas o diagramas y ejemplos cuando el documento fuente los permite. La información que depende de la versión o licencia se identifica como tal y debe verificarse antes de aplicarse en producción.
