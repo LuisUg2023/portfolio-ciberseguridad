@@ -20,7 +20,6 @@ Documentar los fundamentos de Splunk Enterprise desde la recepción de machine d
 | 09 | [Archivos .conf comunes](./09-archivos-conf.md) | 7 min | Inputs, outputs, props, saved searches, indexes y acceso. |
 | 10 | [Index-time vs. Search-time](./10-index-vs-search-time.md) | 2 min | Procesamiento de ingesta y búsqueda. |
 | 11 | [Preguntas de entrevista](./11-preguntas-entrevista.md) | 31 min | Arquitectura, Knowledge Objects, clustering y SPL. |
-| 12 | [Evaluación: fundamentos de búsqueda](./12-evaluacion-fundamentos-busqueda.md) | — | Cuestionario de 15 preguntas con clave explicada y correcciones de ambigüedades. |
 
 ## Imágenes del documento fuente
 
