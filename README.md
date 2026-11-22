@@ -1,8 +1,8 @@
-# Portafolio de Ciberseguridad – Google Cybersecurity Certificate (Coursera)
+# Portafolio de Ciberseguridad y formación complementaria
 
-Portafolio académico destinado exclusivamente a documentar los conocimientos, actividades, prácticas y proyectos relacionados con el **Google Cybersecurity Certificate de Coursera**.
+Repositorio académico para documentar conocimientos, actividades, prácticas y proyectos de ciberseguridad, junto con formación complementaria en inteligencia artificial e ingeniería de prompts.
 
-## Módulos
+## Ruta principal: Google Cybersecurity Certificate (Coursera)
 
 1. [Fundamentos de ciberseguridad](./01-fundamentos/README.md)
 2. [Auditoría técnica](./02-auditoria-tecnica/README.md)
@@ -13,17 +13,21 @@ Portafolio académico destinado exclusivamente a documentar los conocimientos, a
 7. [Automatización con Python](./07-python-ciberseguridad/README.md)
 8. [Inteligencia artificial aplicada a ciberseguridad](./08-ia-ciberseguridad/README.md)
 
+## Formación complementaria: Cisco Networking Academy
+
+- [Prompt Like an Engineer](./09-ingenieria-prompts/README.md) — fundamentos de ingeniería de prompts, arquitectura conceptual de un chatbot, contexto, archivos adjuntos, selección de LLM y evaluación de respuestas.
+
 ## Criterios de documentación
 
-- Relacionar cada actividad con los contenidos del certificado de Google Cybersecurity de Coursera.
-- Documentar objetivos, metodología, herramientas, evidencias, resultados y referencias.
-- Diferenciar claramente las instrucciones o resultados esperados de las actividades realmente ejecutadas.
+- Mantener identificada la institución y el nombre oficial de cada capacitación.
+- Documentar objetivos, conceptos, metodología, herramientas, evidencias, resultados y referencias.
+- Diferenciar los contenidos explicados en el curso de los análisis y prácticas complementarias.
 - Incluir únicamente capturas y evidencias auténticas; no presentar ejemplos como ejecuciones verificadas.
 - Sanitizar las evidencias: no publicar contraseñas, tokens, claves privadas, datos personales ni información sensible.
 - Realizar pruebas únicamente en sistemas propios o en entornos donde exista autorización explícita.
 
-## Alcance y separación de portafolios
+## Organización y alcance
 
-Este repositorio corresponde únicamente al certificado de Google Cybersecurity de Coursera. El curso Introducción a Splunk de Udemy y los cursos de la plataforma oficial Splunk Training deben documentarse en repositorios independientes.
+La ruta principal corresponde al Google Cybersecurity Certificate de Coursera. Las capacitaciones complementarias de otras plataformas se identifican por separado para conservar su procedencia y evitar atribuir sus contenidos al certificado de Google.
 
-**Estado:** estructura académica en proceso de organización. La presencia de una sección o plantilla no implica que todas sus actividades estén completadas ni verificadas.
+**Estado:** documentación en desarrollo. La presencia de una sección o plantilla no implica que todas sus actividades estén completadas ni verificadas.
